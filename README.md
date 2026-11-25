@@ -1,0 +1,2 @@
+# shopsmart-flask
+flask application
